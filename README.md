@@ -9,9 +9,13 @@ Anaconda – Python 3.7 Installation / Jupyter notebook.
 
 ## Procedure:
 1 Import the numpy and matplotlib.pyplot modules.
-2 Read the dataset using pandas
-3 plot the data using matplotlib.pyplot library function
+
+2 Read the dataset using pandas.
+
+3 plot the data using matplotlib.pyplot library function.
+
 4 Plot the data according to need, either seasonal_decomposition or trend plot.
+
 5 Display the overall results.
 
 ## Program:
